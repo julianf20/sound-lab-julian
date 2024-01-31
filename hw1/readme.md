@@ -1,1 +1,1 @@
-#Homework 1 - Create a Sound Using Additive Synthesis
+# Homework 1 - Create a Sound Using Additive Synthesis
