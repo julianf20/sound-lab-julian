@@ -32,3 +32,7 @@ Cmaj7 (G, B, C, E)
 The sound itself is very warm and lush and it emulates the sound of an ensemble of string instruments.
 
 ![](PDoutput.mp4)
+
+<video width="320" height="240" controls>
+  <source src="PDoutput.mp4" type="video/mp4">
+</video>
