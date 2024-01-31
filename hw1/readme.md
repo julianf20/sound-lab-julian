@@ -6,3 +6,11 @@ This patch in Pure Data is my attempt to recreate the analog synth pad from the 
 
 
 <img src="patch.png" alt="drawing" width="600"/>
+
+The frequency ratios used in this patch are shown below for the 4 sawtooth oscillators:
+
+### Chord 1:
+| Frequency | Note |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
