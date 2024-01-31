@@ -37,4 +37,8 @@ The sound itself is very warm and lush and it emulates the sound of an ensemble 
   <source src="PDoutput.mp4" type="video/mp4">
 </video>
 
+
+https://github.com/julianf20/sound-lab-julian/assets/98412392/44859613-81dc-4000-9ee9-b4077764ae91
+
+
 [Original Song](https://www.youtube.com/watch?v=QIdimVDuSEU)
