@@ -6,5 +6,5 @@ This patch in Pure Data is my attempt to recreate the analog synth pad from the 
 
 
 <div style="text-align: center;">
-<img src="patch.png" alt="drawing" width="600"/>
+  <img src="patch.png" alt="drawing" width="600"/>
 </div>
