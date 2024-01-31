@@ -12,5 +12,19 @@ The frequency ratios used in this patch are shown below for the 4 sawtooth oscil
 ### Chord 1:
 | Frequency | Note |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 329.63 | E4 |
+| 261.63 | C4 |
+| 220 | A3 |
+| 174.6 | F3 |
+Fmaj7 (F, A, C, E)
+
+### Chord 2:
+| Frequency | Note |
+| ----------- | ----------- |
+| 329.63 | E4 |
+| 261.63 | C4 |
+| 246.9 | B3 |
+| 196 | G3 |
+Cmaj7 (G, B, C, E)
+
+The sound itself is very warm and lush and it emulates the sound of an ensemble of string instruments.
